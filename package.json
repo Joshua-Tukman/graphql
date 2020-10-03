@@ -1,0 +1,17 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "description": "This project is made following the GraphQL tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joshua Tukman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  }
+}
